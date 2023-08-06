@@ -1,1 +1,0 @@
-g++ CMakeFiles/CatMovie.dir/src/CatMovie.cpp.o -o CatMovie   -L/link  -Wl,-rpath,/link:/mnt/windows/RKnn/test/Opencv/lib ../Opencv/lib/libopencv_highgui.so.4.5.5 ../Opencv/lib/libopencv_videoio.so.4.5.5 ../Opencv/lib/libopencv_imgcodecs.so.4.5.5 ../Opencv/lib/libopencv_imgproc.so.4.5.5 ../Opencv/lib/libopencv_core.so.4.5.5 
