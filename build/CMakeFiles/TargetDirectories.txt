@@ -1,0 +1,4 @@
+/mnt/windows/RKnn/test/build/CMakeFiles/CatImg.dir
+/mnt/windows/RKnn/test/build/CMakeFiles/CatMovie.dir
+/mnt/windows/RKnn/test/build/CMakeFiles/edit_cache.dir
+/mnt/windows/RKnn/test/build/CMakeFiles/rebuild_cache.dir
